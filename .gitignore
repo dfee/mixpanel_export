@@ -1,0 +1,14 @@
+*.py[cod]
+*.sw[pab]
+*.un~
+*.egg
+*.egg-info
+dist
+build
+eggs
+sdist
+__pycache__
+pip-log.txt
+.coverage
+.tox
+nosetests.xml

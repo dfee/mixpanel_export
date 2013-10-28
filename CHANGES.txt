@@ -1,0 +1,5 @@
+0.2 (2013-10-28)
+----------------
+
+- A serious rewrite of Mixpanel's API export Python code
+- Logging included
